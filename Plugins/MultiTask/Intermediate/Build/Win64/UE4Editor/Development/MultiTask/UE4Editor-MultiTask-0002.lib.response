@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MultiTask-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\user\Documents\Unreal Projects\MultiTaskPlugin\Intermediate\Build\Win64\MultiTaskPluginEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\user\Documents\Unreal Projects\MultiTaskPlugin\Plugins\MultiTask\Intermediate\Build\Win64\UE4Editor\Development\MultiTask\Module.MultiTask.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\MultiTaskPlugin\Plugins\MultiTask\Intermediate\Build\Win64\UE4Editor\Development\MultiTask\Module.MultiTask.gen.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\MultiTaskPlugin\Plugins\MultiTask\Intermediate\Build\Win64\UE4Editor\Development\MultiTask\Default.rc2.res"
+/OUT:"C:\Users\user\Documents\Unreal Projects\MultiTaskPlugin\Plugins\MultiTask\Intermediate\Build\Win64\UE4Editor\Development\MultiTask\UE4Editor-MultiTask-0002.lib"
+/INCLUDE:IMPLEMENT_MODULE_MultiTask

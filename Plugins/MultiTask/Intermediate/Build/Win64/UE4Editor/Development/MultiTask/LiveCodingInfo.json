@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MultiTask.cpp.obj": [
+			"MultiTask.cpp.obj",
+			"MultiTaskFunctionLibrary.cpp.obj",
+			"MultiTaskTypes.cpp.obj",
+			"Task.cpp.obj"
+		],
+		"Module.MultiTask.gen.cpp.obj": [
+			"MultiTask.init.gen.cpp.obj",
+			"MultiTaskFunctionLibrary.gen.cpp.obj",
+			"MultiTaskTypes.gen.cpp.obj"
+		]
+	}
+}
